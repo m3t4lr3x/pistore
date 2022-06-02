@@ -5,6 +5,11 @@ function Links() {
   return (
     <div className='flex flex-row m-5 justify-center items-center text-yellow-400 '>
         <ul className="w-60">
+          <a target="_blank" rel="noreferrer" href="https://wa.me/message/DLKG6PAWLVDSI1">
+            <li className="hover:text-gray-300 flex justify-center w-full border-2 mb-2 py-2 rounded">
+                <i className='mr-1 bi bi-whatsapp'></i> Whatsapp
+            </li>
+          </a>
           <a target="_blank" rel="noreferrer" href="https://www.tiktok.com/@pistore.official">
             <li className="hover:text-gray-300 flex justify-center w-full border-2 mb-2 py-2 rounded">
                 <i className='mr-1 bi bi-tiktok'></i> Tiktok
