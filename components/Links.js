@@ -10,6 +10,11 @@ function Links() {
                 <i className='mr-1 bi bi-whatsapp'></i> Whatsapp
             </li>
           </a>
+          <a target="_blank" rel="noreferrer" href="#">
+            <li className="hover:text-gray-300 flex justify-center w-full border-2 mb-2 py-2 rounded">
+              <i class="bi bi-geo-alt-fill"></i> Lokasi (Segera)
+            </li>
+          </a>
           <a target="_blank" rel="noreferrer" href="https://www.tiktok.com/@pistore.official">
             <li className="hover:text-gray-300 flex justify-center w-full border-2 mb-2 py-2 rounded">
                 <i className='mr-1 bi bi-tiktok'></i> Tiktok
